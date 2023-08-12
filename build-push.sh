@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build . --pull --no-cache --tag ghcr.io/rich0/veilid && docker push ghcr.io/rich0/veilid
+docker build . --pull --no-cache --tag ghcr.io/benborges/veilid && docker push ghcr.io/benborges/veilid
